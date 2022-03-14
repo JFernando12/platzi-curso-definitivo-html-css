@@ -1,0 +1,11 @@
+/* Aplicar si está cerca de */
+/* h2 + p
+{
+    color: red;
+} */
+
+/* Aplicar si lo tiene de hermano general */
+h2 ~ p
+{
+    color:red;
+}
